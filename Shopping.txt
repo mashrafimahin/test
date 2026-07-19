@@ -6,3 +6,6 @@ PineApple
 
 
 Hello World
+
+
+Dark Mode Enabled
