@@ -1,0 +1,11 @@
+name: My first github actions with yaml file
+
+on:
+  push:
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo "Hello Github Actions"
