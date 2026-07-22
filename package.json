@@ -1,6 +1,8 @@
 {
   "scripts": {
     "lint:html": "htmlhint *.html"
+=======
+    "test": "htmlhint *.html"
   },
   "devDependencies": {
     "htmlhint": "^1.9.2"
